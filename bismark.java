@@ -1,6 +1,7 @@
-/* Programming Fundamentals
- * Name: Matthew Stankevicius
- * PROGRAMMING ASSIGNMENT 2*/
+/* Object Oriented Programming
+ * Creators: Jake, Pablo, Matt <last names>
+ * <MIT LICENSE>
+ */
 package src;
 import java.util.*;
 public class Bismarck 
